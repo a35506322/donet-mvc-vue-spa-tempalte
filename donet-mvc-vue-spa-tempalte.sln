@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "donet-mvc-vue-spa-tempalte", "donet-mvc-vue-spa-tempalte\donet-mvc-vue-spa-tempalte.csproj", "{ABD990C5-F267-4EF9-B905-7AD9B19E621C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "donet-mvc-vue-spa-tempalte", "src\donet-mvc-vue-spa-tempalte\donet-mvc-vue-spa-tempalte.csproj", "{8AE67B62-7BE2-4C23-9069-DDCA2047B51E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ABD990C5-F267-4EF9-B905-7AD9B19E621C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABD990C5-F267-4EF9-B905-7AD9B19E621C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABD990C5-F267-4EF9-B905-7AD9B19E621C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABD990C5-F267-4EF9-B905-7AD9B19E621C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE67B62-7BE2-4C23-9069-DDCA2047B51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE67B62-7BE2-4C23-9069-DDCA2047B51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE67B62-7BE2-4C23-9069-DDCA2047B51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE67B62-7BE2-4C23-9069-DDCA2047B51E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

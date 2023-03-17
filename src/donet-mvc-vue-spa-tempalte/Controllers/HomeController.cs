@@ -15,7 +15,7 @@ namespace donet_mvc_vue_spa_tempalte.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return File("~/index.html","text/html");
         }
 
         public IActionResult Privacy()
